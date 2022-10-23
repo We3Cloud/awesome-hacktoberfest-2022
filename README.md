@@ -19,6 +19,7 @@
 
 ## Repositories Supporting First-Timers
 
+- [Patterns](https://github.com/sachin-cpp/MyPatterns)
 - [Amplication](https://github.com/amplication/amplication)
 - [Animepedia](https://github.com/DecodersCommunity/animepedia)
 - [Anki IPA](https://github.com/m-rtin/anki-ipa)
